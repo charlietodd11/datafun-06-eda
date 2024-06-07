@@ -40,6 +40,10 @@ Define dataframe from the seaborn library labled 'mpg' and print the first few r
 
 Create histograms for each numerical column and countplots for each categorical column. 
 
+### Initial Visualization
+
+I created pair plots to check correlation, then scatter plots specified to country, and finally line plots specified to country. 
+
 ## Specification
 '''
 This project was built to the following specification:
